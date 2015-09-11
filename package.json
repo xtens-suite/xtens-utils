@@ -1,0 +1,26 @@
+{
+  "name": "xtens-utils",
+  "version": "1.0.0",
+  "description": "a collection of utility methods and functions for the XTENS repository",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biolab-unige/xtens-utils.git"
+  },
+  "keywords": [
+    "xtens",
+    "utilities"
+  ],
+  "author": "Massimiliano Izzo <massimorgon@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/biolab-unige/xtens-utils/issues"
+  },
+  "homepage": "https://github.com/biolab-unige/xtens-utils#readme"
+}
