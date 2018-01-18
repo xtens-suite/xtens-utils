@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/biolab-unige/xtens-utils.git"
+    "url": "git+https://github.com/xtens-suite/xtens-utils.git"
   },
   "keywords": [
     "xtens",
@@ -20,7 +20,7 @@
   "author": "Massimiliano Izzo <massimorgon@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/biolab-unige/xtens-utils/issues"
+    "url": "https://github.com/xtens-suite/xtens-utils/issues"
   },
-  "homepage": "https://github.com/biolab-unige/xtens-utils#readme"
+  "homepage": "https://github.com/xtens-suite/xtens-utils#readme"
 }
